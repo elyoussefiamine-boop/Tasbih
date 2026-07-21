@@ -1,0 +1,22 @@
+{
+  "name": "Dhikr - تسبيح",
+  "short_name": "Dhikr",
+  "description": "Application de compteur de dhikr simple et élégante",
+  "start_url": "/tasbih/",
+  "display": "standalone",
+  "background_color": "#1a4d2e",
+  "theme_color": "#1a4d2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
